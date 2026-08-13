@@ -1,0 +1,5 @@
+streamlit
+google-generativeai
+pandas
+streamlit-mic-recorder
+python-dotenv
